@@ -3,3 +3,4 @@ label_encoder_gender.pkl
 one_hot_encoder_geo.pkl
 scaler.pkl
 logs/
+regression_logs/
